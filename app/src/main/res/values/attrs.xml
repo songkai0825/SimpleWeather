@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="barchar_style">
+
+        <attr name="barInterval" format="dimension" />
+        <attr name="bar_color" format="color" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text_color" format="color" />
+        <attr name="temp_text_size" format="dimension" />
+        <attr name="temp_text_color" format="color" />
+        <attr name="curve_color" format="color"/>
+        <attr name="circle_color" format="color"/>
+        <attr name="curve_ratio" format="float"/>
+
+    </declare-styleable>
+
+</resources>
